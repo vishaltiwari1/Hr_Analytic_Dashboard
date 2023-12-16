@@ -13,7 +13,7 @@ The Data set used is a sample date set of a company for assessment <a href="http
 The following steps were taken to accomplish the project objectives:
 
 - Data Verification and Cleansing: The dataset was thoroughly reviewed for missing values and anomalies. Any identified issues were resolved to ensure data consistency and cleanliness regarding data types, formats, and values.
-- Dashboard Development: The pivot tables were merged into a single interactive dashboard, incorporating slicers for dynamic exploration.
+- Dashboard Development: Graphs and Visualization table were merged into a single interactive dashboard, incorporating slicers for dynamic exploration.
 
 ## **Dashboard:**
 
